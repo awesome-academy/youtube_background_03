@@ -61,4 +61,6 @@ fastlane/readme.md
 # Android Studio captures folder
 captures/
 
-/app/src/androidTest/java/com/sun_asterisk/comics_01/ExampleInstrumentedTest.java
+/app/src/androidTest/java/com/sun/youtube_background_03/ExampleInstrumentedTest.java
+app/libs/
+app/src/main/res/menu/
